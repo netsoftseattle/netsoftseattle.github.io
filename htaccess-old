@@ -1,0 +1,35 @@
+# $Id: htaccess.txt,v 1.10 2003/12/22 10:37:29 rcastley Exp $
+#
+# htaccess file for SEF
+# @package Mambo Open Source
+# @Copyright (C) 2000 - 2003 Miro International Pty Ltd
+# @ All rights reserved
+# @ Mambo Open Source is Free Software
+# @ Released under GNU/GPL License : http://www.gnu.org/copyleft/gpl.html
+# @version $Revision: 1.10 $
+
+#
+#  mod_rewrite in use
+#
+
+RewriteEngine On
+
+#  Uncomment following line if your webserver's URL 
+#  is not directly related to physival file paths.
+#  Update YourMamboDirectory (just / for root)
+
+# RewriteBase /YourMamboDirectory
+
+#
+#  Rules
+#
+
+RewriteRule ^content(.*) index.php
+RewriteRule ^component/(.*) index.php
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 12.218.132.231

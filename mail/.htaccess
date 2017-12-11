@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mail.netsoftseattle.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.mail.netsoftseattle.com$
+RewriteRule ^(.*)$ "http\:\/\/mail\.google\.com\/a\/netsoftseattle\.com" [R=301,L]
+

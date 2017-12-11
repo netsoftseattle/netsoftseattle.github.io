@@ -1,0 +1,75 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #e8e8e8; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #bfbfbf; SCROLLBAR-SHADOW-COLOR: #bfbfbf; SCROLLBAR-3DLIGHT-COLOR: #bfbfbf; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #cccccc; SCROLLBAR-DARKSHADOW-COLOR: #bfbfbf; BACKGROUND-COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 160%; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+P {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 160%; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+LI {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 160%; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+A {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.red {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.red {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.ital {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif";  font-style: italic
+}
+A.menu {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.menu:link {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+A.menu:visited {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; COLOR: #ffffff; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+A.menu:hover {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; COLOR: #ff0000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:active {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 2px; COLOR: #ff0000; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.menu1:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu1:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu1:hover {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu1:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A.menu2:link {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.menu2:visited {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.menu2:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.menu2:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.image {
+}
+.t {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 120%; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+

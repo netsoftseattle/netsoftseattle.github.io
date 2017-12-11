@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Team Eats</title>
+
+<link href="style.css" type="text/css" rel="stylesheet" />
+
+<script language="JavaScript1.1">
+<!--
+/*
+JavaScript Image slideshow:
+By Website Abstraction (www.wsabstract.com)
+and Java-scripts.net (www.java-scripts.net)
+*/
+
+var slideimages=new Array()
+var slidelinks=new Array()
+
+function slideshowimages(){
+  for (i=0;i<slideshowimages.arguments.length;i++){
+  slideimages[i]=new Image()
+  slideimages[i].src=slideshowimages.arguments[i]
+  }
+}
+
+function slideshowlinks(){
+  for (i=0;i<slideshowlinks.arguments.length;i++)
+  slidelinks[i]=slideshowlinks.arguments[i]
+}
+
+function gotoshow(){
+  if (!window.winslide||winslide.closed)
+    winslide=window.open(slidelinks[whichlink])
+  else
+    winslide.location=slidelinks[whichlink]
+    winslide.focus()
+}
+//-->
+</script>
+
+
+</head>
+
+<body>
+	<div id="centered">
+	  <div id="header"><img src="banner3.png" border="0" usemap="#Map" />
+	      <map name="Map" id="Map22">
+	        <area shape="rect" coords="683,354,833,378" href="#" />
+	        <area shape="rect" coords="479,353,682,378" href="#" />
+            <area shape="rect" coords="291,353,476,378" href="#" />
+            <area shape="rect" coords="161,352,292,378" href="#" />
+        </map>
+      </div>
+	
+	<div id="left">
+		<h1>We were starving for a site about team meals.</h1>
+		<div id="image">
+		<img src="baseballKids2.png" name="slide" border=0>
+
+<script>
+<!--
+//configure the paths of the images, plus corresponding target links
+slideshowimages("baseballKids2.png", "footballBoys.png", "huddleGirls.png", "baseballKids.png", "footballKids.png", "soccerKids.png", "baseballKids3.png","girls.png", "huddleKids.png")
+
+//configure the speed of the slideshow, in miliseconds
+var slideshowspeed=4000
+var whichlink=0
+var whichimage=0
+
+function slideit(){
+  if (!document.images)
+    return
+    document.images.slide.src=slideimages[whichimage].src
+    whichlink=whichimage
+
+  if (whichimage<slideimages.length-1)
+    whichimage++
+  else
+    whichimage=0
+    setTimeout("slideit()",slideshowspeed)
+}
+slideit()
+//-->
+</script>
+</div>
+
+
+
+
+
+		
+		<span class="WIDEletter"><img src="t.png" /></span><p>he team meal is that pre-game ritual or post-game feast when the group gathers to devour panfuls of baked ziti, bowlfuls of salads and platters of chimichongas or chocolate chip cookies.</p>
+
+<span class="letter"><img src="f.png" /></span><p>or too long, these meals have terrified parents (the cooks) and bored athletes (the eaters). Worse still, there was no place to find recipes to satisfy team-size appetites. </p>
+
+<h3>Team Eats is hungry to change all that.</h3><br />
+
+<span class="letter"><img src="w.png" /></span><p>e’re the clubhouse for finding and sharing scrumptious recipes all proven to please kids and dazzle parents. Whether your team is Football, French Club or Field Hockey -- PeeWee or Adult League -- you’ll find the right chow (and the know-how to prepare it) here. </p>
+
+<span class="letter"><img src="y.png" /></span><p>ou can also share your team's most treasured recipes. So grab your mouse and join our team!</p>
+</div>
+
+	<div id="center"><img src="center.png" /></div>
+	
+	<div id="right">
+		<div id="card">
+			<div id="submittedBy"><p>Submitted by:<br />Redville Lions</p></div>
+			<div id="serves"><p>Serves: 36 people</p></div>
+			<span class="foodPic"><img src="rahrahrice.png" /></span>
+			<div id="title"><h2>Rah-Rah Rice</h2></div>
+			<div id="description"><p>Cooking rice for a crowd can be tricky if you don’t want it sticky. The rice for this salad should be dry, tender and the grains well...</p></div>
+			<span class="more"><img src="more.png" /></span>
+		</div>
+		
+		<div id="card">
+			<div id="submittedBy"><p>Submitted by:<br />Burtown Patriots</p></div>
+			<div id="serves"><p>Serves: 8-10 people</p></div>
+			<span class="foodPic"><img src="potatoePizza.png" /></span>
+			<div id="title"><h2>Potato Pizza</h2></div>
+			<div id="description"><p>This recipe is made by the roaster panful, so it’s simple to scale up for a big crowd. Use a large, turkey-sized pan for each batch.</p></div>
+			<span class="more"><img src="more.png" /></span>
+		</div>
+		
+		<div id="card">
+			<div id="submittedBy"><p>Submitted by:<br />Redville Lions</p></div>	
+			<div id="serves"><p>Serves: 36 people</p></div>
+			<span class="foodPic"><img src="sloppyjoe.png" /></span>
+			<div id="title"><h2>Sloppy Joes</h2></div>
+			<div id="description"><p>it is a lot less “ketchupy” than most Sloppy Joe recipes. And with some carrots as a tiny nod to the health conscious...</p></div>
+			<span class="more"><img src="more.png" /></span>
+		</div>
+	</div>
+	
+	<!--<div id="footer"><p>Contact Us</p></div>-->
+	</div>
+</body>
+</html>

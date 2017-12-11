@@ -1,0 +1,82 @@
+BODY {
+	BACKGROUND: #999999; MARGIN: 0px auto; FONT: 10px Verdana, Arial, Helvetica, sans-serif; WIDTH: 750px; PADDING-TOP: 30px; TEXT-ALIGN: left
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none
+}
+#container {
+	BORDER-RIGHT: black 1px dashed;
+	PADDING-RIGHT: 10px;
+	BORDER-TOP: black 1px dashed;
+	PADDING-LEFT: 10px;
+	BACKGROUND: #fff;
+	PADDING-BOTTOM: 10px;
+	BORDER-LEFT: black 1px dashed;
+	PADDING-TOP: 10px;
+	BORDER-BOTTOM: black 1px dashed;
+	font-family: "sans-serif", "Arial";
+	font-size: 12px;
+
+
+}
+#nav {
+	BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 4px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 4px; BACKGROUND: #0000FF; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 4px; BORDER-LEFT: black 1px dashed; COLOR: #fff; PADDING-TOP: 4px; TEXT-ALIGN: left
+}
+#nav A:link {
+	FONT-WEIGHT: bold; COLOR: #fff; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#nav A:visited {
+	FONT-WEIGHT: bold; COLOR: #fff; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#nav A:hover {
+	FONT-WEIGHT: bold; COLOR: #eee; BACKGROUND-COLOR: transparent; TEXT-DECORATION: underline
+}
+#upload {
+	TEXT-ALIGN: center
+}
+INPUT {
+	BORDER-RIGHT: black 1px dashed; BORDER-TOP: black 1px dashed; BACKGROUND: #eee; BORDER-LEFT: black 1px dashed; BORDER-BOTTOM: black 1px dashed
+}
+#footer {
+	BORDER-TOP-WIDTH: 0px;
+	BORDER-RIGHT: #d1d1c1 1px dashed;
+	PADDING-RIGHT: 2px;
+	PADDING-LEFT: 2px;
+	PADDING-BOTTOM: 2px;
+	BORDER-LEFT: #d1d1c1 1px dashed;
+	COLOR: #fff;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #d1d1c1 1px dashed;
+	TEXT-ALIGN: center;
+	vertical-align: baseline;
+	bottom: 1px;
+	background-color: #660033;
+	background-position: bottom;
+
+
+}
+#footer A:link {
+	FONT-WEIGHT: bold; COLOR: #aaa; TEXT-DECORATION: none
+}
+#footer A:visited {
+	FONT-WEIGHT: bold; COLOR: #aaa; TEXT-DECORATION: none
+}
+#footer A:hover {
+	FONT-WEIGHT: bold; COLOR: #fff; TEXT-DECORATION: underline
+}
+H3 {
+	PADDING-RIGHT: 10px
+}
+TEXTAREA {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+#adsense {
+
+	BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 4px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 4px; BACKGROUND: #FFFFFF center; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 4px; BORDER-LEFT: black 1px dashed; COLOR: #FFFFFF; PADDING-TOP: 4px; TEXT-ALIGN: center
+}

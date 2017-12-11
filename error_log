@@ -1,0 +1,87 @@
+[24-Jan-2004 11:52:09] PHP Warning:  main(/version.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:52:09] PHP Warning:  main(): Failed opening '/version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:52:09] PHP Warning:  main(/classes/database.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:52:09] PHP Fatal error:  main(): Failed opening required '/classes/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:53:02] PHP Warning:  main(/version.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:53:02] PHP Warning:  main(): Failed opening '/version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:53:02] PHP Warning:  main(/classes/database.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:53:02] PHP Fatal error:  main(): Failed opening required '/classes/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:53:24] PHP Warning:  main(/version.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:53:24] PHP Warning:  main(): Failed opening '/version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:53:24] PHP Warning:  main(/classes/database.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:53:24] PHP Fatal error:  main(): Failed opening required '/classes/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:56:24] PHP Warning:  main(/version.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:56:24] PHP Warning:  main(): Failed opening '/version.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 28
+[24-Jan-2004 11:56:24] PHP Warning:  main(/classes/database.php): failed to open stream: No such file or directory in /home/shansoft/public_html/classes/mambo.php on line 30
+[24-Jan-2004 11:56:24] PHP Fatal error:  main(): Failed opening required '/classes/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/classes/mambo.php on line 30
+[02-Feb-2004 05:02:22] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[04-Feb-2004 15:31:15] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[11-Feb-2004 10:31:22] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[11-Feb-2004 14:47:43] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[11-Feb-2004 15:13:25] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[12-Feb-2004 11:53:05] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[18-Feb-2004 23:02:28] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[20-Feb-2004 22:14:06] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[23-Feb-2004 11:38:48] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[24-Feb-2004 21:05:18] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[02-Mar-2004 18:15:51] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[04-Mar-2004 08:16:26] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[06-Mar-2004 01:08:57] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[07-Mar-2004 16:53:24] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[09-Mar-2004 12:29:23] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[10-Mar-2004 17:37:38] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[12-Mar-2004 02:50:19] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[13-Mar-2004 13:12:54] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[15-Mar-2004 01:07:45] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[16-Mar-2004 11:13:52] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[17-Mar-2004 21:12:35] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[19-Mar-2004 08:46:04] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[26-Mar-2004 09:26:57] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[01-Apr-2004 21:49:09] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[06-Apr-2004 13:56:43] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[02-May-2004 00:00:39] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[04-May-2004 16:48:51] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[19-Jun-2004 00:10:32] PHP Parse error:  parse error, expecting `','' or `';'' in /home/shansoft/public_html/templates/sub_minimalist3/index.php on line 358
+[11-Aug-2004 14:18:24] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[07-Sep-2004 10:24:11] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/shansoft/public_html/includes/sef.php on line 378
+[10-Sep-2004 14:17:11] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[10-Oct-2004 14:18:39] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[27-Oct-2004 23:18:32] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[28-Oct-2004 07:44:35] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[07-Dec-2004 21:18:14] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[10-Dec-2004 10:06:30] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[10-Dec-2004 12:34:14] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[14-Dec-2004 00:38:10] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[28-Dec-2004 18:58:09] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[14-Jan-2005 11:57:13] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[19-Jan-2005 19:55:00] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[22-Jan-2005 22:46:20] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[22-Jan-2005 23:44:01] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[25-Jan-2005 19:13:51] PHP Fatal error:  Undefined class name 'contact_html' in /home/shansoft/public_html/components/com_contact/contact.php on line 74
+[28-Jan-2005 14:32:48] PHP Warning:  main(language//lang_registration.php): failed to open stream: No such file or directory in /home/shansoft/public_html/registration.php on line 22
+[28-Jan-2005 14:32:48] PHP Warning:  main(): Failed opening 'language//lang_registration.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/registration.php on line 22
+[28-Jan-2005 14:32:48] PHP Fatal error:  Call to a member function on a non-object in /home/shansoft/public_html/registration.php on line 25
+[28-Jan-2005 14:38:12] PHP Warning:  main(regglobals.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 21
+[28-Jan-2005 14:38:12] PHP Warning:  main(regglobals.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 21
+[28-Jan-2005 14:38:12] PHP Warning:  main(): Failed opening 'regglobals.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/contact.php on line 21
+[28-Jan-2005 14:38:12] PHP Warning:  main(language//lang_contact.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 23
+[28-Jan-2005 14:38:12] PHP Warning:  main(language//lang_contact.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 23
+[28-Jan-2005 14:38:12] PHP Warning:  main(): Failed opening 'language//lang_contact.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/contact.php on line 23
+[28-Jan-2005 14:38:12] PHP Warning:  main(classes/html/contacthtml.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 25
+[28-Jan-2005 14:38:12] PHP Warning:  main(classes/html/contacthtml.php): failed to open stream: No such file or directory in /home/shansoft/public_html/contact.php on line 25
+[28-Jan-2005 14:38:12] PHP Fatal error:  main(): Failed opening required 'classes/html/contacthtml.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/contact.php on line 25
+[28-Jan-2005 14:43:28] PHP Warning:  main(language//lang_faq.php): failed to open stream: No such file or directory in /home/shansoft/public_html/faq.php on line 22
+[28-Jan-2005 14:43:28] PHP Warning:  main(language//lang_faq.php): failed to open stream: No such file or directory in /home/shansoft/public_html/faq.php on line 22
+[28-Jan-2005 14:43:28] PHP Warning:  main(): Failed opening 'language//lang_faq.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/faq.php on line 22
+[28-Jan-2005 14:43:28] PHP Warning:  main(classes/html/faq.php): failed to open stream: No such file or directory in /home/shansoft/public_html/faq.php on line 24
+[28-Jan-2005 14:43:28] PHP Warning:  main(classes/html/faq.php): failed to open stream: No such file or directory in /home/shansoft/public_html/faq.php on line 24
+[28-Jan-2005 14:43:28] PHP Fatal error:  main(): Failed opening required 'classes/html/faq.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/faq.php on line 24
+[28-Jan-2005 14:51:37] PHP Warning:  main(configuration.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 22
+[28-Jan-2005 14:51:37] PHP Warning:  main(configuration.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 22
+[28-Jan-2005 14:51:37] PHP Warning:  main(): Failed opening 'configuration.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/upload.php on line 22
+[28-Jan-2005 14:51:37] PHP Warning:  main(language//lang_upload.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 23
+[28-Jan-2005 14:51:37] PHP Warning:  main(language//lang_upload.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 23
+[28-Jan-2005 14:51:37] PHP Warning:  main(): Failed opening 'language//lang_upload.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/upload.php on line 23
+[28-Jan-2005 14:51:37] PHP Warning:  main(regglobals.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 24
+[28-Jan-2005 14:51:37] PHP Warning:  main(regglobals.php): failed to open stream: No such file or directory in /home/shansoft/public_html/upload.php on line 24
+[28-Jan-2005 14:51:37] PHP Warning:  main(): Failed opening 'regglobals.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shansoft/public_html/upload.php on line 24
